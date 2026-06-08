@@ -26,3 +26,8 @@ if formula:
 
     except Exception as e:
         st.error("Invalid formula")
+st.divider()
+
+st.caption(
+    "LCMS Assistant v0.1 | Developed by Bowen Wang"
+)
